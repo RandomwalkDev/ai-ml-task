@@ -4,15 +4,16 @@ I have performed Optical Character Recognition (OCR) on an input image followed 
 
 **Structure**
 
-|-- README.md 
-
-|-- sample.jpeg        # Example input image
+|-- Anshu Saini_ai-ml-task.py # Main script for the extraction process
 
 |-- MyReadme.md  # My readme file
 
-|-- Anshu Saini_ai-ml-task.py # Main script for the extraction process
+|-- README.md 
 
 |-- demonstartion.mp4 #video demonstarting the output
+
+|-- sample.jpeg        # Example input image
+
 
 **Features**
 
